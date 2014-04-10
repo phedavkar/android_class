@@ -1,0 +1,7 @@
+package com.example.list;
+
+import android.app.Fragment;
+
+public class EntryView extends Fragment{
+
+}
